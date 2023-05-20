@@ -1,4 +1,4 @@
-Statistics
+Statistics (Chapters 1-7)
 
 Incomplete: Chapter 4 - 38
 
