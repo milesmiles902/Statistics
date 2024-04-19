@@ -1,0 +1,3 @@
+High-Dimensional Data (Chapter 2)
+
+Cite: Wainwright MJ. High-Dimensional Statistics: A Non-Asymptotic Viewpoint. Cambridge University Press; 2019.
