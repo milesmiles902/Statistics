@@ -1,12 +1,8 @@
-Statistics (Chapters 1-14)
+<ins>High-Dimensional Data</ins> 
 
-Incomplete: 
->Chapter 4 - 38\
->Chapter 8 - 35, 41\
->Chapter 9 - 19d, 62\
->Chapter 10 - 10a, 23, 49
+Cite: Wainwright MJ. High-Dimensional Statistics: A Non-Asymptotic Viewpoint. Cambridge University Press; 2019. 
 
-I began the datasets in Chapter 8. 
+<ins>Data Analysis</ins> 
 
-Cite: Rice, J. A. (2006). Mathematical Statistics and Data Analysis.. Belmont, CA: Duxbury Press.
+Cite: Rice, J. A. (2006). Mathematical Statistics and Data Analysis. Belmont, CA: Duxbury Press.
 
