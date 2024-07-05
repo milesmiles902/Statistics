@@ -1,4 +1,4 @@
-High-Dimensional Data (Chapter 2-9)
+High-Dimensional Data (Chapter 2-13)
 
 Incomplete:
 
