@@ -1,4 +1,4 @@
-High-Dimensional Data (Chapter 2-13)
+<ins>High-Dimensional Data (Chapters 2-15)</ins> 
 
 Incomplete:
 
@@ -6,4 +6,4 @@ Incomplete:
 >
 >Chapter 15: #17c
 
-Cite: Wainwright MJ. High-Dimensional Statistics: A Non-Asymptotic Viewpoint. Cambridge University Press; 2019.
+Cite: Wainwright MJ. (2019) High-Dimensional Statistics: A Non-Asymptotic Viewpoint. Cambridge University Press. 
