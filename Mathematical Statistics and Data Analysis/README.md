@@ -1,4 +1,4 @@
-Statistics (Chapters 1-14)
+<ins>Mathematical Statistics and Data Analysis (Chapters 1-14)</ins> 
 
 Incomplete: 
 >Chapter 4 - 38\
@@ -8,4 +8,4 @@ Incomplete:
 
 I began the datasets in Chapter 8. 
 
-Cite: Rice, J. A. (2006). Mathematical Statistics and Data Analysis.. Belmont, CA: Duxbury Press.
+Cite: Rice, J. A. (2006). Mathematical Statistics and Data Analysis. Belmont, CA. Duxbury Press.
